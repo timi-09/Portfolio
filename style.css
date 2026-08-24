@@ -34,7 +34,7 @@
   .wrap{
     max-width: 980px;
     margin: 20 auto;
-    padding: 20 64px;
+    padding: 20 48px;
   }
 
   .mono{ font-family: 'JetBrains Mono', monospace; }
